@@ -1,11 +1,9 @@
 # Full Stack Open Submissions
 
-## Folder Layout
+## Folder Layout (single files not listed)
 
 part0
-* 0.4 New note diagram  
-* 0.5 Single page app diagram  
-* 0.6 New note in Single page app diagram
+* no further subdirectories
 ---
 part1
 ---
